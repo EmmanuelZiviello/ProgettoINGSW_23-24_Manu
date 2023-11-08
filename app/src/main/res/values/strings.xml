@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProgettoINGSW</string>
+    
+    <string-array name="elencoSocialRegistrazione">
+        <item>Tiktok</item>
+        <item>Instagram</item>
+        <item>Facebook</item>
+        <item>X</item>
+        <item>Linkedin</item>
+    </string-array>
+
+    
+</resources>
